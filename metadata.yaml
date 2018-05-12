@@ -1,0 +1,33 @@
+_repo: History-of-the-American-Negro-in-the-Great-World-War--13-His-Splendid-Record-in-the-Battle-Zo__16598
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sweeney, William Allison
+    birthdate: 1851
+    gutenberg_agent_id: '6813'
+    url: http://www.gutenberg.org/2009/agents/6813
+description: ''
+gutenberg_bookshelf:
+- Spanish American War
+- World War I
+gutenberg_issued: '2005-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- History -- 1877-1964'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Participation, African American'
+- !lcsh 'African American soldiers'
+title: "History of the American Negro in the Great World War\r\nHis Splendid Record\
+  \ in the Battle Zones of Europe; Including a Resume of His Past Services to his\
+  \ Country in the Wars of the Revolution, of 1812, the War of Rebellion, the Indian\
+  \ Wars on the Frontier, the Spanish-American War, and the Late Imbroglio With Mexico"
+url: http://www.gutenberg.org/ebooks/16598
