@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6813'
     url: http://www.gutenberg.org/2009/agents/6813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16598#History-of-the-American-Negro-in-the-Great-World-War--13-His-Splendid-Record-in-the-Battle-Zo_
 gutenberg_bookshelf:
 - Spanish American War
 - World War I
